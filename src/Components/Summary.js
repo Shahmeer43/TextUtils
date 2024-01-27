@@ -1,6 +1,6 @@
 import "../Styles/SummaryStyle.css";
 
-let Summary = ({ data: text, mode: mode }) => {
+let Summary = ({ data: text, mode }) => {
   const totalWords = (text) => {
     if (text === "") {
       return 0;
