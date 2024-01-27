@@ -1,0 +1,10 @@
+.summaryContainer {
+  margin-left: 24%;
+  margin-right: 24%;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.summaryHeading {
+  margin-bottom: 0.5rem;
+}

@@ -1,0 +1,7 @@
+.alertContainer {
+  background-color: lightgrey;
+  padding: 0.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

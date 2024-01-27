@@ -1,0 +1,80 @@
+#container {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.textBoxInput {
+  width: 50%;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: large;
+  outline-color: #2596be;
+  padding: 1rem;
+  resize: none;
+}
+
+.btnDiv {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  width: 70%;
+  padding: 1rem;
+}
+
+.btnParentDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn {
+  color: white;
+  outline: none;
+  border: none;
+  border-radius: 3px;
+  padding: 0.7rem;
+  box-sizing: content-box;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  margin: 0.1rem;
+  width: 10rem;
+  background-color: darkorange;
+}
+
+.btn:hover {
+  cursor: pointer;
+}
+
+/* #btnUpperCase {
+  background-color: darkorange;
+}
+
+#btnLowerCase {
+  background-color: green;
+}
+
+#btnReverse {
+  background-color: brown;
+}
+
+#btnClear {
+  background-color: crimson;
+}
+
+#btnUndo {
+  background-color: darkmagenta;
+}
+
+#btnRedo {
+  background-color: blue;
+}
+
+#btnRemoveExtraSpaces {
+  background-color: darkred;
+}
+
+#btnCopyText {
+  background-color: darkblue;
+} */
